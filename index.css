@@ -28,11 +28,11 @@ input{
 }
 
 header1{
-    float: bottom;
+    float: left;
 }
 
 header2{
-    float: bottom;
+    float: right;
 }
 
 
