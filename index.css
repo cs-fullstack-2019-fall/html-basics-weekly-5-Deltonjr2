@@ -1,0 +1,36 @@
+body{
+  text-align: center;
+  line-height: normal;
+}
+
+img{
+    width: 300px;
+    padding-top: 100px;
+}
+
+button{
+    height: 30px;
+    padding-top: 10px;
+    horiz-align: center;
+    margin: 10px;
+
+}
+
+input{
+    margin-left: 300px;
+    margin-right: 300px;
+    width: 550px;
+    border-radius: 100px;
+    height: 40px;
+    font-family: sans-serif;
+    background-color: white;
+    text-align: left;
+}
+
+header1{
+    float: left;
+}
+
+header2{
+    float: right;
+}
