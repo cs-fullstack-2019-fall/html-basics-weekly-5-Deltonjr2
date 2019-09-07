@@ -1,3 +1,5 @@
+##### See rubric in drive for total score.
+##### You got pretty close but you are missing some key components (like the footer) and none of your buttons are appropriately linked. You search function does not function either. 
 # HTML/CSS Weekly 5
 
 Reproduce the Google search page
